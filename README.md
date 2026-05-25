@@ -1,4 +1,4 @@
-# nabi_primary_transcript
+# ncbi_primary_transcript
 some adjust make the script adapt to more situations
 
 ## Intro
